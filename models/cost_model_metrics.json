@@ -1,0 +1,12 @@
+{
+  "dataset_type": "synthetic_demo_data",
+  "rows": 612,
+  "holdout_rows": 123,
+  "mae_inr": 17846.43,
+  "rmse_inr": 29962.32,
+  "holdout_r2": 0.7818,
+  "cv_r2_mean": 0.7799,
+  "cv_r2_std": 0.0414,
+  "random_state": 42,
+  "disclaimer": "Evaluation uses synthetic demonstration records only; not real-world validation."
+}
